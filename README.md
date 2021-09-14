@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charppi, also known like Alvis
 - 👀 I’m interested in learn new things and improve my developer skills
-- 🌱 I’m currently learning Kotlin and mobile development
+- 🌱 I’m currently learning aws and serverless
 - 💞️ I’m looking to collaborate on any project where i can see a challenge
 - 📫 carlosmc_2000@hotmail.com
 
